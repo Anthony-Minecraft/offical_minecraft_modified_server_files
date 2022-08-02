@@ -1,2 +1,2 @@
-# offical_minecraft_modified_server_files
+# Offical Minecraft Modified Server Files
 Repo for a quick and easy access to the current updated mods
